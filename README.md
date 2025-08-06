@@ -1,5 +1,5 @@
 # ParaxialLensRayTracing
-Personal Project
+
 ParaxialLens.m is the classedef of paraxial lens just like the 
  "Paraxial XY"(sequential mode) and "Paraxial Lens"(nonsequential mode)
 in the Zemax.It has the ray tracing function, the algorithm can be seen
