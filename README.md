@@ -14,11 +14,17 @@ can be used to simulate the integral imaging.
 'ParaxialLensTest.m' We can see
 ![ParaxialLensTestCompareWithZemax-Matlab](https://github.com/user-attachments/assets/4ca7fc7d-2092-4a15-b5ab-42139969e2a0)
 <p align="center">from my script</p>
+
 ![ParaxialLensTestCompareWithZemax-ZEMAX](https://github.com/user-attachments/assets/e1e053e3-5776-4f94-a9a0-a3fcc5c26f39)
 <p align="center">from zemax</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 'CylindricalLensArrayTest.m' We can see
 ![CylindricalLensArrayTestCompareWithZemax-MATLAB](https://github.com/user-attachments/assets/71026830-bdcb-471f-afcd-04abd9a669fa)
 <p align="center">from my script</p>
+
 ![CylindricalLensArrayTestCompareWithZemax-ZEMAX](https://github.com/user-attachments/assets/bba2ae30-82f4-43c1-82a0-84325071e3cc)
 <p align="center">from zemax</p>
