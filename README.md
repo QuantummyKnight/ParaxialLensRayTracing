@@ -11,7 +11,7 @@ in the CylindricalLensArrayTest.m.
 CylindricalLensArrayTest.m gives another example for ParaxialLens.m, it
 can be used to simulate the integral imaging.
 
-'ParaxialLensTest.m' We can see
+'ParaxialLensTest.m' We can see a paraxial lens with focal length of X as 3 and focal length of Y as 5
 ![ParaxialLensTestCompareWithZemax-Matlab](https://github.com/user-attachments/assets/4ca7fc7d-2092-4a15-b5ab-42139969e2a0)
 <p align="center">from my script</p>
 
@@ -22,7 +22,7 @@ can be used to simulate the integral imaging.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-'CylindricalLensArrayTest.m' We can see
+'CylindricalLensArrayTest.m' We can see the cylindrical lens array, its pitch is 0.5, its focal length of X is 0.5, its focal length of Y is infinity  
 ![CylindricalLensArrayTestCompareWithZemax-MATLAB](https://github.com/user-attachments/assets/71026830-bdcb-471f-afcd-04abd9a669fa)
 <p align="center">from my script</p>
 
