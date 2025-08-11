@@ -28,3 +28,11 @@ can be used to simulate the integral imaging.
 
 ![CylindricalLensArrayTestCompareWithZemax-ZEMAX](https://github.com/user-attachments/assets/bba2ae30-82f4-43c1-82a0-84325071e3cc)
 <p align="center">from zemax</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+Relative algorithm as follows
+<img width="998" height="1305" alt="image" src="https://github.com/user-attachments/assets/1e2d2890-3bbd-4888-b3a6-810e20e7c40d" />
+<img width="998" height="1299" alt="image" src="https://github.com/user-attachments/assets/ee2d1340-e6ce-45c9-9805-f3dd2dcf530e" />
